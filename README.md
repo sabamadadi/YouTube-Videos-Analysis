@@ -1,5 +1,9 @@
 # Trending YouTube Videos Analysis
-[View Full Report](https://drive.google.com/file/d/1B2rUIn5iJ1CUvf1bYmav0W16_sCJGEQf/view?usp=sharing)
+[View Full Report](https://drive.google.com/file/d/1B2rUIn5iJ1CUvf1bYmav0W16_sCJGEQf/view?usp=sharing)  
+
+ [The scraping part is explained separately.](https://github.com/sabamadadi/YouTube-Videos-Analysis/edit/main/README.md#scpraping)  
+
+
 
 ## Overview
 This project analyzes the factors influencing YouTube videos trending globally.  
@@ -25,3 +29,5 @@ It uses a dataset of trending videos from 10 countries, including metrics like v
 ## Applications
 These insights help new YouTubers optimize content strategy for higher views and engagement.  
 Future work could include exploring tag effectiveness, audience demographics, and cross-country trends.
+
+# Scpraping
